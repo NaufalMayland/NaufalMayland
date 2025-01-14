@@ -1,5 +1,4 @@
-# Wazzup! 
-# my name is Naufal Zaky Maylandri
+# Wazzup! my name is Naufal Zaky Maylandri
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMayland&layout=compact&theme=radical)
 
