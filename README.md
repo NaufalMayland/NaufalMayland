@@ -3,6 +3,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMayland&layout=compact&theme=radical)
 
+# Nama Proyek
+
+Proyek ini adalah aplikasi web untuk [deskripsi proyek].
+
+## Teknologi yang Digunakan
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## Statistik Bahasa
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
 
 <!--
 **NaufalMayland/NaufalMayland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
