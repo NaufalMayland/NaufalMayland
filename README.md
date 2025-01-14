@@ -1,6 +1,6 @@
 ## Wazzup! 
 
-## Statistik Bahasa
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMayland&layout=compact&theme=radical)
 
 
