@@ -9,7 +9,7 @@ my name is Naufal Zaky Maylandri
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-4479A1?style=flat-square&logo=figma&logoColor=white)
 
 <!--
 **NaufalMayland/NaufalMayland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
