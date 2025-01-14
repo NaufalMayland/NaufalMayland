@@ -1,9 +1,9 @@
-## Wazzup! 
-
+# Wazzup! 
+my name is Naufal Zaky Maylandri
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMayland&layout=compact&theme=radical)
 
-# Tech Stack
+## Tech Stack:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
