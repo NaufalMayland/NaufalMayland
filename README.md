@@ -1,17 +1,23 @@
-# Wazzup! 
-my name is Naufal Zaky Maylandri
+# Wazzup👊!
+My name is Naufal Zaky Maylandri
+<br>
+💻 Web Developer using Laravel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMayland&layout=compact&theme=radical)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHPMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" width="50"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" width="30"/>
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="45"/>
+</div>
 
-follow me in [@maylanfl](instagram.com/maylanfl_)
+
+
 
 <!--
 **NaufalMayland/NaufalMayland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
