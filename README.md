@@ -3,7 +3,7 @@ My name is Naufal Zaky Maylandri
 <br>
 💻 Web Developer using Laravel
 
-## What tech i use:
+## 💻 What tech i use:
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" width="50"/>
