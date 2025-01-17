@@ -11,6 +11,8 @@ my name is Naufal Zaky Maylandri
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+follow me in [@maylanfl](instagram.com/maylanfl_)
+
 <!--
 **NaufalMayland/NaufalMayland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
