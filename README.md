@@ -1,10 +1,12 @@
-# Wazzup👊!
-My name is Naufal Zaky Maylandri
-<br>
-💻 Web Developer using Laravel
+<div align="center">
 
-## 💻 What tech i use:
-<div style="display: flex; align-items: center; gap: 10px;">
+**Wazzup👊!**
+
+My name is Naufal Zaky Maylandri  
+
+ **💻 What tech I use:**  
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" width="50"/>
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50"/>
@@ -15,9 +17,8 @@ My name is Naufal Zaky Maylandri
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="45"/>
 </div>
 
-<br>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMayland&layout=compact&theme=radical)
 
 
 
