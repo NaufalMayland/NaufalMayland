@@ -1,8 +1,7 @@
-<div align="center">
-
-**Wazzup👊!**
-
-My name is Naufal Zaky Maylandri  
+# Wazzup👊!
+My name is Naufal Zaky Maylandri
+<br>
+💻 Web Developer using Laravel
 
  **💻 What tech I use:**  
 
