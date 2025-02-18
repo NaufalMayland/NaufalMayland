@@ -1,10 +1,6 @@
 # Wazzup👊! I'm Naufal Zaky Maylandri
 
 💻 **Web Developer** specializing in **Laravel**  
-🌱 Passionate about building clean, efficient, and user-friendly web applications.  
-🚀 Always learning and exploring new technologies to level up my skills.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -22,11 +18,4 @@ Here are the technologies and tools I work with:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
 
----
 
-## 📊 GitHub Stats
-
-Check out my GitHub stats to see what I've been up to:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufalzaky&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalzaky&layout=compact&theme=radical)
