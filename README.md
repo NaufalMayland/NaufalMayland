@@ -1,39 +1,32 @@
-# Wazzup👊!
-My name is Naufal Zaky Maylandri
-<br>
-💻 Web Developer using Laravel
+# Wazzup👊! I'm Naufal Zaky Maylandri
 
- **💻 What tech I use:**  
+💻 **Web Developer** specializing in **Laravel**  
+🌱 Passionate about building clean, efficient, and user-friendly web applications.  
+🚀 Always learning and exploring new technologies to level up my skills.
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" width="50"/>
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" width="30"/>
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="45"/>
+---
+
+## 🛠️ Tech Stack
+
+Here are the technologies and tools I work with:
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
 
-</div>
+---
 
+## 📊 GitHub Stats
 
+Check out my GitHub stats to see what I've been up to:
 
-
-
-
-<!--
-**NaufalMayland/NaufalMayland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufalzaky&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalzaky&layout=compact&theme=radical)
