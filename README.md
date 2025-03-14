@@ -1,6 +1,6 @@
 # Wazzup👊! I'm Naufal Zaky Maylandri
 
-💻 **Beginner Web Developer** specializing in **Laravel**  
+💻 **Beginner Web Developer**
 
 ## 🛠️ Tech Stack
 
