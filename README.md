@@ -2,9 +2,7 @@
 
 💻 **Beginner Web Developer**
 
-## 🛠️ Tech Stack
-
-Here are the technologies and tools I work with:
+## 🛠️ What tech i use
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
